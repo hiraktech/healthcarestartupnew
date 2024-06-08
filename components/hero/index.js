@@ -5,7 +5,7 @@ export default () => (
     <div className="header__text-box">
       <h1>The Tech & Medicine Hub</h1>
       <p>
-        ChingHub is a global network accelerating Tech and Medicine research and business
+        ReeyzHub is a global network accelerating Tech and Medicine fundraising, research and business
       </p>
 
 <a href="/sign_up"  target="_blank" >
