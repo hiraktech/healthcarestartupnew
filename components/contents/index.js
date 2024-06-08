@@ -11,7 +11,7 @@ export default () => (
         />
       </div>
       <div className="providers__text-box">
-        <h1>Funding</h1>
+        <h1>Fundraising</h1>
         <div className="border" />
         <p>
           We provide the right introduction to the right investor in Asia, America, Europe, Middle East, and elsewhere in the world.
