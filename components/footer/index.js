@@ -37,12 +37,12 @@ export default () => (
 
 
         <li>
-          <a href="mailto:info@reyzhub.com">reyz@chinghub.com</a> 
+          <a href="mailto:info@reyzhub.com">info@reyzhub.com</a> 
         </li>
 
        
         <li>
-      ©Reyz  Hub 2024. All rights reserved
+      ©ReyzHub 2024. All rights reserved
         </li>
 
 
