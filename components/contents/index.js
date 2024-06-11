@@ -26,7 +26,7 @@ export default () => (
         </h1>
         <div className="border" />
         <p>
-          We connect companies across continents and oceans. We make deals happen for clinical trials and commercialization phases.
+          We connect companies globally. We make deals happen for clinical trials and commercialization phases.
         </p>
 
       </div>
