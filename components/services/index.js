@@ -6,7 +6,7 @@ export default () => (
       <h2>Global Network</h2>
       <div className="border" />
       <p>
-ReeyzHub is a global service facilitating fundraising and partnerships in Tech and Medicine 
+ReyzHub is a global service facilitating fundraising and partnerships in Tech and Medicine 
       </p> 
 
     </article>
