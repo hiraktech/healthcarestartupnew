@@ -7,6 +7,10 @@ export default () => (
 
 <p> <b> Our Offices </b> </p>
 
+<p>
+3000 Sand Hill Road, Menlo Park, CA 94025, United States
+      </p>
+  
       <p>
 8 Hennessy Road, Wan Chai, Hong Kong
       </p>
@@ -15,9 +19,7 @@ export default () => (
 49 rue de Ponthieu, 75008 Paris, France
       </p>
 
-<p>
-3000 Sand Hill Road, Menlo Park, CA 94025, United States
-      </p>
+
 
 
     </div>
