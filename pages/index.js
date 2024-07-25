@@ -23,7 +23,6 @@ export default () => (
 <meta name="twitter:description" content="ReyzHub is a global network accelerating Tech and Medicine research and business" />
 <meta name="twitter:image" content="./assets/illustration-2.svg" />
     </Head>   
-            <!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-YRFCS8YCXP"></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-YRFCS8YCXP');</script>
     <Navbar />
     <Hero />
     <Services />
