@@ -24,7 +24,24 @@ export default () => (
 <meta name="twitter:description" content="ReyzHub is a global network accelerating Tech and Medicine research and business" />
 <meta name="twitter:image" content="./assets/illustration-2.svg" />
     </Head>
-    <GoogleAnalytics gaId="G-YRFCS8YCXP" />
+ <>
+      <Script
+        strategy='lazyOnload'
+        src={`https://www.googletagmanager.com/gtag/js?id=G-YRFCS8YCXP`}
+      />
+
+      <Script id='' strategy='lazyOnload'>
+        {`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-YRFCS8YCXP', {
+              page_path: window.location.pathname,
+              });
+          `}
+      </Script>
+    </>
+            
     <Navbar />
     <Hero />
     <Services />
