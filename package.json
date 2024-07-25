@@ -16,7 +16,6 @@
     "react-dom": "16.13.1",
     "react-icons": "^3.11.0",
     "sass": "^1.26.10"
-    "@next/third-parties/google": "14.0.0"
   },
   "devDependencies": {
     "eslint": "^7.9.0",
