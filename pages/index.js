@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 import {
   Services, Contents, Media_Coverage, Hero, Navbar, Footer, ChatwootWidget, 
@@ -23,6 +24,7 @@ export default () => (
 <meta name="twitter:description" content="ReyzHub is a global network accelerating Tech and Medicine research and business" />
 <meta name="twitter:image" content="./assets/illustration-2.svg" />
     </Head>
+    <GoogleAnalytics gaId="G-YRFCS8YCXP" />
     <Navbar />
     <Hero />
     <Services />
