@@ -1,6 +1,5 @@
 import React from 'react';
 import Head from 'next/head';
-import { GoogleAnalytics } from '@next/third-parties/google'
 
 import {
   Services, Contents, Media_Coverage, Hero, Navbar, Footer, ChatwootWidget, 
