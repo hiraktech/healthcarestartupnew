@@ -12,11 +12,11 @@ export default () => (
       </p>
   
       <p>
-8 Hennessy Road, Wan Chai, Hong Kong
+King Abdullah Road, Al Wurud, Riyadh 32421, KSA
       </p>
  
 <p>
-49 rue de Ponthieu, 75008 Paris, France
+5 Parv. Alan Turing, 75013 Paris, France
       </p>
 
 
@@ -33,7 +33,7 @@ export default () => (
           Mostapha Benhenda <a  href="https://linkedin.com/in/mostapha-benhenda/" target="_blank">(LinkedIn)</a>
         </li>
        <li>
-          Vincent Cai <a href="https://www.linkedin.com/in/%E5%8D%9A%E8%94%A1-%E6%99%AE-1885951b3/"  target="_blank">(LinkedIn)</a>
+          Abdul Rahman Alolayan <a href="https://linkedin.com/in/alolayana"  target="_blank">(LinkedIn)</a>
         </li>
      <li>
           <a  href="https://calendly.com/mostaph/10min" target="_blank">🗓️ Schedule a 10-minute video call</a>
